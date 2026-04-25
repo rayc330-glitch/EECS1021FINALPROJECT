@@ -1,6 +1,11 @@
 # EECS1021FINALPROJECT
 
 ## This Guide Will tell you how to set up the 2-player F1 Reaction game both on the hardware and software side.
+By:
+Johnson Su
+Raymond Chu 
+Stanley Su
+Abidullah Khan
 
 ### Hardware Setup
 #### Components Needed:
